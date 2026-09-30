@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Anas 👋
 
-<!--
-**Anassaeed010/Anassaeed010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Problem Solver • Systems Thinker • Software Engineer
 
-Here are some ideas to get you started:
+I want to understand the problem, structure it, and build a solution that makes sense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student interested in **backend development, system design, and real-world problem solving**.
+
+### What I'm Working On
+
+* 🧩 Building real-world software projects
+* 🏗️ Learning software architecture and system design
+* 🐍 Teaching and developing with Python
+* ⚙️ Building backend systems with Laravel
+* 📚 Improving my problem-solving and analytical thinking
+* 🚀 Exploring ideas that turn real problems into practical solutions
+
+### My Approach
+
+> **Understand the problem → Structure it → Explore the solution → Build → Learn → Improve**
+
+### Technologies
+
+**Languages**
+
+* Python
+* PHP
+* Java
+
+**Frameworks & Tools**
+
+* Laravel
+* Flutter
+* Git & GitHub
+* MySQL
+
+### Projects
+
+I'm currently working on projects that focus on solving actual problems rather than simply demonstrating technology.
+
+One of my ongoing projects is **Telly Pass**, a platform designed to automate access management for paid Telegram-based courses.
+
+---
+
+### Currently Learning
+
+`System Design` • `Backend Development` • `Software Architecture` • `Problem Solving` • `Python`
+
+### Let's Build Something Useful.
+
+> **Think in problems. Design in systems. Build with code.**
